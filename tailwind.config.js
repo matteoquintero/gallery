@@ -6,6 +6,7 @@ module.exports = {
   ],
   theme: {
     extend: {
+      display: ["group-hover"],
       colors:{ 
         'pink':{
           100:'#ff738d',
