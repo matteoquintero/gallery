@@ -1,6 +1,6 @@
 # gallery
 
-El c'odigo esta en src/components/Galery.vue, para efectos practicos no se aplica ningua tecnica de dise;o SOLID
+Se implementa algunos principios de SOLID en base al tiempo que me fue otorgado.
 ## Project Setup
 
 ```sh
